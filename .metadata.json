@@ -1,10 +1,10 @@
 [
   {
-    "package": "MGDrivE",
+    "package": "MGDrivE2",
     "oncran": true
   },
   {
-    "package": "MGDrivE2",
+    "package": "MGDrivE",
     "oncran": true
   }
 ]

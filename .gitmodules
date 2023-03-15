@@ -3,15 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MGDrivE"]
-	path = MGDrivE
-	url = https://github.com/marshalllab/mgdrive
-	shallow = true
-	subdir = MGDrivE
-	registered = true
 [submodule "MGDrivE2"]
 	path = MGDrivE2
 	url = https://github.com/marshalllab/mgdrive
 	shallow = true
 	subdir = MGDrivE2
+	registered = true
+[submodule "MGDrivE"]
+	path = MGDrivE
+	url = https://github.com/marshalllab/mgdrive
+	shallow = true
+	subdir = MGDrivE
 	registered = true
