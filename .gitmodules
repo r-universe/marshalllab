@@ -6,3 +6,7 @@
 	path = MGDrivE
 	url = https://github.com/marshalllab/mgdrive
 	subdir = MGDrivE
+[submodule "MGDrivE2"]
+	path = MGDrivE2
+	url = https://github.com/marshalllab/mgdrive
+	subdir = MGDrivE2
